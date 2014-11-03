@@ -38,11 +38,12 @@ class ViewController: UIViewController {
         
         messageLabel.textColor = UIColor.redColor()
         
+        // тест размещения в Гите
         
         enterMessageTextField.text = ""
         
         enterMessageTextField.resignFirstResponder()
-          
+        
         mailButton.setTitle("Sent Mail!", forState: UIControlState.Normal)
         
  
